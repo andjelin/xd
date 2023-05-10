@@ -1,66 +1,44 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="tvcg1" group-title="CRNOGORSKI",RTCG 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 2.3) AppleWebkit/538.1 (KHTML, like Gecko) SamsungBrowser/1.0 TV Safari/538.1
-http://strimer3.iptv-max.com:81/live?channelId=422&uid=51359&deviceMac=00:C3:F4:EC:A1:F4&anycast=4c4f112dd5966a6f73f2f0b4fbb8614d&smart=1
+http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/1080.ts
 #EXTINF:-1 tvg-id="tvcg2" group-title="CRNOGORSKI",RTCG 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 2.3) AppleWebkit/538.1 (KHTML, like Gecko) SamsungBrowser/1.0 TV Safari/538.1
-http://strimer3.iptv-max.com:87/live?channelId=59&uid=51359&deviceMac=00:C3:F4:EC:A1:F4&anycast=983edadb4c8e95c9b693cc9a7bdbb762&smart=1
+http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/2543.ts
 #EXTINF:-1 tvg-id="tvcg1" group-title="CRNOGORSKI",RTCG 1 *hevc*
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 2.3) AppleWebkit/538.1 (KHTML, like Gecko) SamsungBrowser/1.0 TV Safari/538.1
-http://ostali.ddstream.info:2095/live?channelId=1739&uid=51359&deviceMac=00:C3:F4:EC:A1:F4&anycast=b32a2633f16b6127ed6c32d0b102615b&smart=1
+http://smartntv.pro:25461/888mirobec/ocLxZY2gmO/11178
 #EXTINF:-1 tvg-id="tvcg2" tvg-name="RTCG 2 " tvg-logo="http://smartntv.pro/logokanali/srb/rtcg2.png" group-title="CRNOGORSKI",RTCG 2 
 http://smartntv.pro:25461/888mirobec/ocLxZY2gmO/6801
 #EXTINF:-1 group-title="CRNOGORSKI",Parlamentarni TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 2.3) AppleWebkit/538.1 (KHTML, like Gecko) SamsungBrowser/1.0 TV Safari/538.1
-http://strimer1.iptv-max.com:85/live?channelId=302&uid=51359&deviceMac=00:C3:F4:EC:A1:F4&anycast=3a0e01d4eb2b0c688ca5d1acbc1ec626&smart=1
+http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/71122.ts
 #EXTINF:-1 tvg-id="tvcg-sat" group-title="CRNOGORSKI",RTCG Sat
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 2.3) AppleWebkit/538.1 (KHTML, like Gecko) SamsungBrowser/1.0 TV Safari/538.1
-http://strimer3.iptv-max.com:82/live?channelId=421&uid=51359&deviceMac=00:C3:F4:EC:A1:F4&anycast=ad19e12be2048698f566912fe11d0522&smart=1
+http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/71118.ts
 #EXTINF:-1 tvg-id="tv-vijesti" group-title="CRNOGORSKI",TV Vijesti
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 2.3) AppleWebkit/538.1 (KHTML, like Gecko) SamsungBrowser/1.0 TV Safari/538.1
-http://sport.ddstream.info:7098/live?channelId=82&uid=51359&deviceMac=00:C3:F4:EC:A1:F4&anycast=1db5c405d1f66dd243c6df99181c6f87&smart=1
+http://smartntv.pro:25461/888mirobec/ocLxZY2gmO/6802
 #EXTINF:-1 group-title="CRNOGORSKI",TV NOVA M
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 2.3) AppleWebkit/538.1 (KHTML, like Gecko) SamsungBrowser/1.0 TV Safari/538.1
-http://strimer3.iptv-max.com:87/live?channelId=1502&uid=51359&deviceMac=00:C3:F4:EC:A1:F4&anycast=0517a9f6e08b39063c32a227b76bf938&smart=1
+http://smartntv.pro:25461/888mirobec/ocLxZY2gmO/11179
 #EXTINF:-1 group-title="CRNOGORSKI",PRVA CG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 2.3) AppleWebkit/538.1 (KHTML, like Gecko) SamsungBrowser/1.0 TV Safari/538.1
-http://strimer5.ddstream.info:7097/live?channelId=1261&uid=51359&deviceMac=00:C3:F4:EC:A1:F4&anycast=83b4f6fa5f1725f9b4c6264c3132233b&smart=1
+http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/9920.ts
 #EXTINF:-1 group-title="CRNOGORSKI",Pink M
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 2.3) AppleWebkit/538.1 (KHTML, like Gecko) SamsungBrowser/1.0 TV Safari/538.1
-http://strimer3.iptv-max.com:83/live?channelId=79&uid=51359&deviceMac=00:C3:F4:EC:A1:F4&anycast=fa43f708af77e2a028045e8f1c8f6514&smart=1
-#EXTINF:-1 group-title="CRNOGORSKI",Adria CG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 2.3) AppleWebkit/538.1 (KHTML, like Gecko) SamsungBrowser/1.0 TV Safari/538.1
-http://strimer5.ddstream.info:7094/live?channelId=1068&uid=51359&deviceMac=00:C3:F4:EC:A1:F4&anycast=dc6238303358ce68d4ccf12dbebc3f80&smart=1
-#EXTINF:-1 group-title="CRNOGORSKI",Gradska TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 2.3) AppleWebkit/538.1 (KHTML, like Gecko) SamsungBrowser/1.0 TV Safari/538.1
-http://sport.ddstream.info:7091/live?channelId=406&uid=51359&deviceMac=00:C3:F4:EC:A1:F4&anycast=c06b3743948c644d76c1c588b79fdec1&smart=1
-#EXTINF:-1 group-title="CRNOGORSKI",Novi TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 2.3) AppleWebkit/538.1 (KHTML, like Gecko) SamsungBrowser/1.0 TV Safari/538.1
-http://strimer1.iptv-max.com:87/live?channelId=1504&uid=51359&deviceMac=00:C3:F4:EC:A1:F4&anycast=1d35c7b03fc492b2aa226fc752fecf32&smart=1
-#EXTINF:-1 group-title="CRNOGORSKI",Herceg Novi TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 2.3) AppleWebkit/538.1 (KHTML, like Gecko) SamsungBrowser/1.0 TV Safari/538.1
-http://ostali.ddstream.info:7094/live?channelId=703&uid=51359&deviceMac=00:C3:F4:EC:A1:F4&anycast=d001be0f344dccbcd1610a9bb2accaa1&smart=1
-#EXTINF:-1 group-title="CRNOGORSKI",TV Niksic
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 2.3) AppleWebkit/538.1 (KHTML, like Gecko) SamsungBrowser/1.0 TV Safari/538.1
-http://strimer5.ddstream.info:7090/live?channelId=1638&uid=51359&deviceMac=00:C3:F4:EC:A1:F4&anycast=8db39a6e2d6faff4e32b0ef8be4eb613&smart=1
-#EXTINF:-1 group-title="CRNOGORSKI",TV Srpska CG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 2.3) AppleWebkit/538.1 (KHTML, like Gecko) SamsungBrowser/1.0 TV Safari/538.1
-http://sport.ddstream.info:7096/live?channelId=1520&uid=51359&deviceMac=00:C3:F4:EC:A1:F4&anycast=bd7c4a2199a5c7d36253104b5e91bc6d&smart=1
-#EXTINF:-1 group-title="CRNOGORSKI",TV 777
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 2.3) AppleWebkit/538.1 (KHTML, like Gecko) SamsungBrowser/1.0 TV Safari/538.1
-http://strimer5.ddstream.info:7094/live?channelId=859&uid=51359&deviceMac=00:C3:F4:EC:A1:F4&anycast=25aca5d5d842baa161245067f9835f04&smart=1
-#EXTINF:-1 group-title="CRNOGORSKI",TV Pljevlja
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 2.3) AppleWebkit/538.1 (KHTML, like Gecko) SamsungBrowser/1.0 TV Safari/538.1
-http://strimer5.ddstream.info:7094/live?channelId=1236&uid=51359&deviceMac=00:C3:F4:EC:A1:F4&anycast=4d842f2bc4fab8f1389379a1381d5a25&smart=1
+http://smartntv.pro:25461/888mirobec/ocLxZY2gmO/6436
 #EXTINF:-1 group-title="CRNOGORSKI",Rozaje TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 2.3) AppleWebkit/538.1 (KHTML, like Gecko) SamsungBrowser/1.0 TV Safari/538.1
-http://strimer3.iptv-max.com:87/live?channelId=1599&uid=51359&deviceMac=00:C3:F4:EC:A1:F4&anycast=a5985843047ad05761121484985a1916&smart=1
-#EXTINF:-1 group-title="CRNOGORSKI",Travel Montenegro
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 2.3) AppleWebkit/538.1 (KHTML, like Gecko) SamsungBrowser/1.0 TV Safari/538.1
-http://strimer3.iptv-max.com:88/live?channelId=1461&uid=51359&deviceMac=00:C3:F4:EC:A1:F4&anycast=df84afa9c1df80fce851f2b1074e6372&smart=1
+http://smartntv.pro:25461/888mirobec/ocLxZY2gmO/28286
+#EXTINF:-1 group-title="CRNOGORSKI",Boin CG
+http://smartntv.pro:25461/888mirobec/ocLxZY2gmO/28287
+#EXTINF:-1 group-title="CRNOGORSKI",Gradska TV
+http://smartntv.pro:25461/888mirobec/ocLxZY2gmO/28288
+#EXTINF:-1 group-title="CRNOGORSKI",Budva TV
+http://smartntv.pro:25461/888mirobec/ocLxZY2gmO/28285
+#EXTINF:-1 group-title="CRNOGORSKI",Herceg Novi TV
+http://cmsott.com:8080/Ramizahmetibsj/QkBumXynDNW3/29861
+#EXTINF:-1 group-title="CRNOGORSKI",TV Niksic
+http://smartntv.pro:25461/888mirobec/ocLxZY2gmO/28284
+#EXTINF:-1 group-title="CRNOGORSKI",TV Islam Montenegro
+http://cmsott.com:8080/Ramizahmetibsj/QkBumXynDNW3/29866
+#EXTINF:-1 group-title="CRNOGORSKI",TV Montenegro Luxemburg
+http://smartntv.pro:25461/888mirobec/ocLxZY2gmO/26328
+#EXTINF:-1 group-title="CRNOGORSKI",TV 777
+http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/2770.ts
 #EXTINF:-1 tvg-id="rts1" tvg-name="RTS 1 " tvg-logo="http://smartntv.pro/logokanali/srb/rts1.png" group-title="Srbija",RTS 1 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 2.3) AppleWebkit/538.1 (KHTML, like Gecko) SamsungBrowser/1.0 TV Safari/538.1
-http://strimer3.iptv-max.com:96/live?channelId=1783&uid=51359&deviceMac=00:C3:F4:EC:A1:F4&anycast=9d02a604819ec702cd89ab53915726b6&smart=1
+http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/39647.ts
 #EXTINF:-1 tvg-id="rts1" tvg-name="RTS 1 - Rezerva" tvg-logo="http://smartntv.pro/logokanali/srb/rts1.png" group-title="Srbija",RTS 1 - Rezerva
 http://smartntv.pro:25461/888mirobec/ocLxZY2gmO/6312
 #EXTINF:-1 tvg-id="rts2" tvg-name="RTS 2 " tvg-logo="http://smartntv.pro/logokanali/srb/rts2.png" group-title="Srbija",RTS 2 
@@ -206,215 +184,217 @@ http://smartntv.pro:25461/888mirobec/ocLxZY2gmO/6794
 #EXTINF:-1 tvg-id="" tvg-name="Jugoton TV" tvg-logo="http://smartntv.pro/logokanali/muzik/jugoton.png" group-title="Muzicki",Jugoton TV
 http://smartntv.pro:25461/888mirobec/ocLxZY2gmO/6795
 #EXTINF:-1 group-title="Pink",Pink Music
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 2.3) AppleWebkit/538.1 (KHTML, like Gecko) SamsungBrowser/1.0 TV Safari/538.1
-http://strimer1.iptv-max.com:87/live?channelId=92&uid=51359&deviceMac=00:C3:F4:EC:A1:F4&anycast=755293f7e7202d3aecb29afd30de3a72&smart=1
-#EXTINF:-1 group-title="Pink",PinkMuzicki2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 2.3) AppleWebkit/538.1 (KHTML, like Gecko) SamsungBrowser/1.0 TV Safari/538.1
-http://strimer3.iptv-max.com:85/live?channelId=150&uid=51359&deviceMac=00:C3:F4:EC:A1:F4&anycast=e449282f8db8e4be4a30b3e72ba992bc&smart=1
+http://cmsott.com:8080/Ramizahmetibsj/QkBumXynDNW3/13369
 #EXTINF:-1 group-title="Pink",Pink hits
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 2.3) AppleWebkit/538.1 (KHTML, like Gecko) SamsungBrowser/1.0 TV Safari/538.1
-http://sport.ddstream.info:7092/live?channelId=152&uid=51359&deviceMac=00:C3:F4:EC:A1:F4&anycast=da55ad5cd50f4314088f28ce370169ec&smart=1
-#EXTINF:-1 group-title="Pink",Pink hits 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 2.3) AppleWebkit/538.1 (KHTML, like Gecko) SamsungBrowser/1.0 TV Safari/538.1
-http://sport.ddstream.info:7097/live?channelId=117&uid=51359&deviceMac=00:C3:F4:EC:A1:F4&anycast=4d5de3738366e56a3f2fd8aa2b6f7323&smart=1
+http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/4140.ts
 #EXTINF:-1 group-title="Pink",Pink Folk 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 2.3) AppleWebkit/538.1 (KHTML, like Gecko) SamsungBrowser/1.0 TV Safari/538.1
-http://strimer3.iptv-max.com:85/live?channelId=93&uid=51359&deviceMac=00:C3:F4:EC:A1:F4&anycast=51bbdc98ac364ce49e9437a17de8f1f4&smart=1
+http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/97.ts
 #EXTINF:-1 group-title="Pink",Pink Folk 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 2.3) AppleWebkit/538.1 (KHTML, like Gecko) SamsungBrowser/1.0 TV Safari/538.1
-http://sport.ddstream.info:7096/live?channelId=95&uid=51359&deviceMac=00:C3:F4:EC:A1:F4&anycast=41c1c660ea8c8540fbefe4fec7b991a1&smart=1
+http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/504.ts
 #EXTINF:-1 group-title="Pink",pink haha
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 2.3) AppleWebkit/538.1 (KHTML, like Gecko) SamsungBrowser/1.0 TV Safari/538.1
-http://strimer5.ddstream.info:7094/live?channelId=17&uid=51359&deviceMac=00:C3:F4:EC:A1:F4&anycast=ba940e850dfe6fbaba789d63da09bb41&smart=1
+http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/1161.ts
 #EXTINF:-1 group-title="Pink",Pink Lol
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 2.3) AppleWebkit/538.1 (KHTML, like Gecko) SamsungBrowser/1.0 TV Safari/538.1
-http://strimer1.iptv-max.com:84/live?channelId=1566&uid=51359&deviceMac=00:C3:F4:EC:A1:F4&anycast=325d76412f2ad8555ff9c68a705b9b74&smart=1
+http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/2612.ts
 #EXTINF:-1 group-title="Pink",Pink Super Kids
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 2.3) AppleWebkit/538.1 (KHTML, like Gecko) SamsungBrowser/1.0 TV Safari/538.1
-http://sport.ddstream.info:7095/live?channelId=462&uid=51359&deviceMac=00:C3:F4:EC:A1:F4&anycast=cd2e7a3f8d39248e1de14f172054dd1b&smart=1
+http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/71270.ts
 #EXTINF:-1 group-title="Pink",Pink Kids
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 2.3) AppleWebkit/538.1 (KHTML, like Gecko) SamsungBrowser/1.0 TV Safari/538.1
-http://sport.ddstream.info:7093/live?channelId=1456&uid=51359&deviceMac=00:C3:F4:EC:A1:F4&anycast=330f96acb5ae8a204421b1a7d2591b00&smart=1
-#EXTINF:-1 group-title="Muzicki",Max FOLK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 2.3) AppleWebkit/538.1 (KHTML, like Gecko) SamsungBrowser/1.0 TV Safari/538.1
-http://strimer3.iptv-max.com:83/live?channelId=890&uid=51359&deviceMac=00:C3:F4:EC:A1:F4&anycast=2ed56804a3ae3fe37abccae6d03469e3&smart=1
+http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/266.ts
 #EXTINF:-1 group-title="Muzicki",Grand TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 2.3) AppleWebkit/538.1 (KHTML, like Gecko) SamsungBrowser/1.0 TV Safari/538.1
-http://sport.ddstream.info:7093/live?channelId=89&uid=51359&deviceMac=00:C3:F4:EC:A1:F4&anycast=37cae075abf80287b59848b5deb39efd&smart=1
+http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/21.ts
 #EXTINF:-1 group-title="Muzicki",Grand TV 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 2.3) AppleWebkit/538.1 (KHTML, like Gecko) SamsungBrowser/1.0 TV Safari/538.1
-http://strimer1.iptv-max.com:84/live?channelId=445&uid=51359&deviceMac=00:C3:F4:EC:A1:F4&anycast=adcde7e3585e3cbd769df7533e5e5b03&smart=1
+http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/1071.ts
 #EXTINF:-1 group-title="Muzicki",idJ TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 2.3) AppleWebkit/538.1 (KHTML, like Gecko) SamsungBrowser/1.0 TV Safari/538.1
-http://strimer3.iptv-max.com:84/live?channelId=1273&uid=51359&deviceMac=00:C3:F4:EC:A1:F4&anycast=8eb59d34a130027ac8db53b992f22990&smart=1
+http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/1112.ts
 #EXTINF:-1 group-title="Muzicki",DM Sat
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 2.3) AppleWebkit/538.1 (KHTML, like Gecko) SamsungBrowser/1.0 TV Safari/538.1
-http://sport.ddstream.info:7090/live?channelId=102&uid=51359&deviceMac=00:C3:F4:EC:A1:F4&anycast=e21d0c6976db2f333d31fc14d5aaacf4&smart=1
+http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/26004.ts
 #EXTINF:-1 group-title="Muzicki",OTV Valentino
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 2.3) AppleWebkit/538.1 (KHTML, like Gecko) SamsungBrowser/1.0 TV Safari/538.1
-http://strimer5.ddstream.info:7096/live?channelId=18&uid=51359&deviceMac=00:C3:F4:EC:A1:F4&anycast=152b9060bfccc798adca9028b97860f8&smart=1
+http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/152.ts
 #EXTINF:-1 group-title="Muzicki",Uzivoteka
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 2.3) AppleWebkit/538.1 (KHTML, like Gecko) SamsungBrowser/1.0 TV Safari/538.1
-http://sport.ddstream.info:7092/live?channelId=38&uid=51359&deviceMac=00:C3:F4:EC:A1:F4&anycast=48a48170ba94b36a9269e785a86dd878&smart=1
+http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/45114.ts
 #EXTINF:-1 group-title="Muzicki",TV SEHARA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 2.3) AppleWebkit/538.1 (KHTML, like Gecko) SamsungBrowser/1.0 TV Safari/538.1
-http://sport.ddstream.info:7092/live?channelId=1203&uid=51359&deviceMac=00:C3:F4:EC:A1:F4&anycast=2dd9a81cc163bd4d43f4e12f6c878935&smart=1
+http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/4264.ts
 #EXTINF:-1 group-title="Muzicki",Sevdah TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 2.3) AppleWebkit/538.1 (KHTML, like Gecko) SamsungBrowser/1.0 TV Safari/538.1
-http://strimer5.ddstream.info:7091/live?channelId=1398&uid=51359&deviceMac=00:C3:F4:EC:A1:F4&anycast=43b39cffbbf94fa9e96d891b0c712e2d&smart=1
-#EXTINF:-1 group-title="Muzicki",Bujrum TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 2.3) AppleWebkit/538.1 (KHTML, like Gecko) SamsungBrowser/1.0 TV Safari/538.1
-http://ostali.ddstream.info:7093/live?channelId=739&uid=51359&deviceMac=00:C3:F4:EC:A1:F4&anycast=8181ad2f3866ced00b280110dd79e9d0&smart=1
-#EXTINF:-1 group-title="Muzicki",HTV FOOLK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 2.3) AppleWebkit/538.1 (KHTML, like Gecko) SamsungBrowser/1.0 TV Safari/538.1
-http://strimer1.iptv-max.com:81/live?channelId=730&uid=51359&deviceMac=00:C3:F4:EC:A1:F4&anycast=27b77dc8727eb013af87cde0557ce589&smart=1
+http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/730.ts
 #EXTINF:-1 group-title="Muzicki",TV Glas Drine
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 2.3) AppleWebkit/538.1 (KHTML, like Gecko) SamsungBrowser/1.0 TV Safari/538.1
-http://strimer3.iptv-max.com:86/live?channelId=456&uid=51359&deviceMac=00:C3:F4:EC:A1:F4&anycast=b1b9ed1572a6f3ff98deb442f8a6a0fd&smart=1
+http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/1072.ts
 #EXTINF:-1 group-title="Muzicki",BN Music
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 2.3) AppleWebkit/538.1 (KHTML, like Gecko) SamsungBrowser/1.0 TV Safari/538.1
-http://strimer3.iptv-max.com:81/live?channelId=142&uid=51359&deviceMac=00:C3:F4:EC:A1:F4&anycast=d3a66862ac1737776fa3e2df3955619b&smart=1
+http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/46.ts
 #EXTINF:-1 group-title="Muzicki",KCN 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 2.3) AppleWebkit/538.1 (KHTML, like Gecko) SamsungBrowser/1.0 TV Safari/538.1
-http://strimer3.iptv-max.com:90/live?channelId=185&uid=51359&deviceMac=00:C3:F4:EC:A1:F4&anycast=9e31ea263de7790fd11c478ae93b924a&smart=1
-#EXTINF:-1 group-title="Muzicki",KCN 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 2.3) AppleWebkit/538.1 (KHTML, like Gecko) SamsungBrowser/1.0 TV Safari/538.1
-http://strimer1.iptv-max.com:84/live?channelId=1408&uid=51359&deviceMac=00:C3:F4:EC:A1:F4&anycast=db103dde0bcf58d0781ab6df59b78be8&smart=1
-#EXTINF:-1 group-title="Muzicki",Boem TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 2.3) AppleWebkit/538.1 (KHTML, like Gecko) SamsungBrowser/1.0 TV Safari/538.1
-http://sport.ddstream.info:7096/live?channelId=323&uid=51359&deviceMac=00:C3:F4:EC:A1:F4&anycast=5fd89ed3bf1b53cb27ccdbf1e3831059&smart=1
-#EXTINF:-1 group-title="Muzicki",DiskoS TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 2.3) AppleWebkit/538.1 (KHTML, like Gecko) SamsungBrowser/1.0 TV Safari/538.1
-http://ostali.ddstream.info:7094/live?channelId=729&uid=51359&deviceMac=00:C3:F4:EC:A1:F4&anycast=820bc4d2408f545278647fd6836c97c1&smart=1
+http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/641.ts
+#EXTINF:-1 group-title="Muzicki",KCN 1
+http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/630.ts
 #EXTINF:-1 group-title="Muzicki",Izvorna TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 2.3) AppleWebkit/538.1 (KHTML, like Gecko) SamsungBrowser/1.0 TV Safari/538.1
-http://sport.ddstream.info:7098/live?channelId=515&uid=51359&deviceMac=00:C3:F4:EC:A1:F4&anycast=ca3096892f8a94326218f7b74784411a&smart=1
+http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/231.ts
 #EXTINF:-1 group-title="Muzicki",Duga TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 2.3) AppleWebkit/538.1 (KHTML, like Gecko) SamsungBrowser/1.0 TV Safari/538.1
-http://strimer3.iptv-max.com:82/live?channelId=339&uid=51359&deviceMac=00:C3:F4:EC:A1:F4&anycast=c1898f6eca6bce44eeb1a8d2e504f309&smart=1
-#EXTINF:-1 group-title="Muzicki",TV VimiNacijum
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 2.3) AppleWebkit/538.1 (KHTML, like Gecko) SamsungBrowser/1.0 TV Safari/538.1
-http://strimer3.iptv-max.com:89/live?channelId=1586&uid=51359&deviceMac=00:C3:F4:EC:A1:F4&anycast=c8ce48058bee977dabfced0b88033fef&smart=1
+http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/231.ts
 #EXTINF:-1 group-title="Muzicki",Yu planet radio
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 2.3) AppleWebkit/538.1 (KHTML, like Gecko) SamsungBrowser/1.0 TV Safari/538.1
-http://strimer5.ddstream.info:7092/live?channelId=382&uid=51359&deviceMac=00:C3:F4:EC:A1:F4&anycast=c93f36439877e51a6432deb1af79f280&smart=1
-#EXTINF:-1 group-title="Muzicki",Super Sat TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 2.3) AppleWebkit/538.1 (KHTML, like Gecko) SamsungBrowser/1.0 TV Safari/538.1
-http://strimer3.iptv-max.com:84/live?channelId=90&uid=51359&deviceMac=00:C3:F4:EC:A1:F4&anycast=7560a26f33c27125ab62a379ecf78fe4&smart=1
-#EXTINF:-1 group-title="Muzicki",Folk Melos TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 2.3) AppleWebkit/538.1 (KHTML, like Gecko) SamsungBrowser/1.0 TV Safari/538.1
-http://ostali.ddstream.info:7101/live?channelId=1657&uid=51359&deviceMac=00:C3:F4:EC:A1:F4&anycast=5a2ec7e1586e076ec5777dc76259ba4b&smart=1
-#EXTINF:-1 group-title="Muzicki",Balkanika
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 2.3) AppleWebkit/538.1 (KHTML, like Gecko) SamsungBrowser/1.0 TV Safari/538.1
-http://strimer1.iptv-max.com:81/live?channelId=97&uid=51359&deviceMac=00:C3:F4:EC:A1:F4&anycast=63464f2d214aaa3dbe7beef9e10d17d4&smart=1
-#EXTINF:-1 group-title="Muzicki",TV Roma
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 2.3) AppleWebkit/538.1 (KHTML, like Gecko) SamsungBrowser/1.0 TV Safari/538.1
-http://sport.ddstream.info:7095/live?channelId=1050&uid=51359&deviceMac=00:C3:F4:EC:A1:F4&anycast=dc0cff00b65babfe4d1485778054ab5b&smart=1
-#EXTINF:-1 group-title="Muzicki",TV Banovina
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 2.3) AppleWebkit/538.1 (KHTML, like Gecko) SamsungBrowser/1.0 TV Safari/538.1
-http://sport.ddstream.info:7095/live?channelId=378&uid=51359&deviceMac=00:C3:F4:EC:A1:F4&anycast=163b3a8b74fd78ed056b66ee46202337&smart=1
-#EXTINF:-1 group-title="Muzicki",Posavina TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 2.3) AppleWebkit/538.1 (KHTML, like Gecko) SamsungBrowser/1.0 TV Safari/538.1
-http://ostali.ddstream.info:7095/live?channelId=914&uid=51359&deviceMac=00:C3:F4:EC:A1:F4&anycast=ba80654c1a9cce75c5b93e50fe9fb94f&smart=1
-#EXTINF:-1 group-title="Muzicki",Jugoton
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 2.3) AppleWebkit/538.1 (KHTML, like Gecko) SamsungBrowser/1.0 TV Safari/538.1
-http://strimer1.iptv-max.com:90/live?channelId=100&uid=51359&deviceMac=00:C3:F4:EC:A1:F4&anycast=fd8068082c85633026a644db18892886&smart=1
-#EXTINF:-1 group-title="Muzicki",CMC
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 2.3) AppleWebkit/538.1 (KHTML, like Gecko) SamsungBrowser/1.0 TV Safari/538.1
-http://strimer1.iptv-max.com:85/live?channelId=70&uid=51359&deviceMac=00:C3:F4:EC:A1:F4&anycast=e66b0c91f6c6f08123c394bda0416208&smart=1
-#EXTINF:-1 group-title="Muzicki",Toxic TV Music
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 2.3) AppleWebkit/538.1 (KHTML, like Gecko) SamsungBrowser/1.0 TV Safari/538.1
-http://ostali.ddstream.info:7095/live?channelId=733&uid=51359&deviceMac=00:C3:F4:EC:A1:F4&anycast=ccc21cb1f42fbd2441b8c6fc203bfb33&smart=1
-#EXTINF:-1 group-title="Muzicki",Hype TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 2.3) AppleWebkit/538.1 (KHTML, like Gecko) SamsungBrowser/1.0 TV Safari/538.1
-http://ostali.ddstream.info:7101/live?channelId=1536&uid=51359&deviceMac=00:C3:F4:EC:A1:F4&anycast=dc4d1c349de11acfa172c292773e27d7&smart=1
-#EXTINF:-1 group-title="Muzicki",MonteHits
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 2.3) AppleWebkit/538.1 (KHTML, like Gecko) SamsungBrowser/1.0 TV Safari/538.1
-http://strimer1.iptv-max.com:90/live?channelId=401&uid=51359&deviceMac=00:C3:F4:EC:A1:F4&anycast=d37a2ee96fc88bd24255673409e975a4&smart=1
-#EXTINF:-1 group-title="Muzicki",MaX MiX Music
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 2.3) AppleWebkit/538.1 (KHTML, like Gecko) SamsungBrowser/1.0 TV Safari/538.1
-http://strimer3.iptv-max.com:85/live?channelId=1269&uid=51359&deviceMac=00:C3:F4:EC:A1:F4&anycast=7af107ce7f1fd61aec3d68895674f48e&smart=1
-#EXTINF:-1 group-title="Muzicki",MTV HD De
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 2.3) AppleWebkit/538.1 (KHTML, like Gecko) SamsungBrowser/1.0 TV Safari/538.1
-http://ostali.ddstream.info:7101/live?channelId=1406&uid=51359&deviceMac=00:C3:F4:EC:A1:F4&anycast=11151b0292554b0331b50384c08e7510&smart=1
-#EXTINF:-1 group-title="Muzicki",MTV Music
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 2.3) AppleWebkit/538.1 (KHTML, like Gecko) SamsungBrowser/1.0 TV Safari/538.1
-http://strimer1.iptv-max.com:84/live?channelId=554&uid=51359&deviceMac=00:C3:F4:EC:A1:F4&anycast=0d547cda80b422ab959ffbcec032287b&smart=1
-#EXTINF:-1 group-title="Muzicki",MTV 90s
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 2.3) AppleWebkit/538.1 (KHTML, like Gecko) SamsungBrowser/1.0 TV Safari/538.1
-http://sport.ddstream.info:7098/live?channelId=915&uid=51359&deviceMac=00:C3:F4:EC:A1:F4&anycast=570670f084ca4c70c0bd9cfe218625cf&smart=1
-#EXTINF:-1 group-title="Muzicki",MTV Hits
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 2.3) AppleWebkit/538.1 (KHTML, like Gecko) SamsungBrowser/1.0 TV Safari/538.1
-http://sport.ddstream.info:7093/live?channelId=402&uid=51359&deviceMac=00:C3:F4:EC:A1:F4&anycast=b8f158ad181c7e3917111c3bc237b9e7&smart=1
-#EXTINF:-1 group-title="Muzicki",Hit tv Music
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 2.3) AppleWebkit/538.1 (KHTML, like Gecko) SamsungBrowser/1.0 TV Safari/538.1
-http://ostali.ddstream.info:7101/live?channelId=1088&uid=51359&deviceMac=00:C3:F4:EC:A1:F4&anycast=b4555deef58dc318d1a2d21fe1869bc4&smart=1
-#EXTINF:-1 group-title="Muzicki",MTV 00s
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 2.3) AppleWebkit/538.1 (KHTML, like Gecko) SamsungBrowser/1.0 TV Safari/538.1
-http://strimer3.iptv-max.com:88/live?channelId=1678&uid=51359&deviceMac=00:C3:F4:EC:A1:F4&anycast=8ab12cbea8878b816f0f505ba502a5ae&smart=1
-#EXTINF:-1 group-title="Muzicki",MTV 80s
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 2.3) AppleWebkit/538.1 (KHTML, like Gecko) SamsungBrowser/1.0 TV Safari/538.1
-http://strimer5.ddstream.info:7091/live?channelId=483&uid=51359&deviceMac=00:C3:F4:EC:A1:F4&anycast=2b8a2da2dd67a23161541b7af670bd16&smart=1
-#EXTINF:-1 group-title="Djeciji",KidsPLUS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 2.3) AppleWebkit/538.1 (KHTML, like Gecko) SamsungBrowser/1.0 TV Safari/538.1
-http://strimer1.iptv-max.com:82/live?channelId=493&uid=51359&deviceMac=00:C3:F4:EC:A1:F4&anycast=31bdde41ec92d732cf51cf85850340dc&smart=1
-#EXTINF:-1 group-title="Djeciji",Artic-Crtic
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 2.3) AppleWebkit/538.1 (KHTML, like Gecko) SamsungBrowser/1.0 TV Safari/538.1
-http://strimer3.iptv-max.com:85/live?channelId=1334&uid=51359&deviceMac=00:C3:F4:EC:A1:F4&anycast=5dd0203481d807d5e7737fe381ecc542&smart=1
-#EXTINF:-1 group-title="Djeciji",Hitovci
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 2.3) AppleWebkit/538.1 (KHTML, like Gecko) SamsungBrowser/1.0 TV Safari/538.1
-http://strimer3.iptv-max.com:83/live?channelId=106&uid=51359&deviceMac=00:C3:F4:EC:A1:F4&anycast=b371b37e30c4ae01cfdb9dc5004fcb25&smart=1
-#EXTINF:-1 group-title="Djeciji",Baby MaX
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 2.3) AppleWebkit/538.1 (KHTML, like Gecko) SamsungBrowser/1.0 TV Safari/538.1
-http://strimer1.iptv-max.com:94/live?channelId=1130&uid=51359&deviceMac=00:C3:F4:EC:A1:F4&anycast=36f4a0fc19787fc332975d29ed9fc2d0&smart=1
-#EXTINF:-1 group-title="Djeciji",Baby Max Eng
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 2.3) AppleWebkit/538.1 (KHTML, like Gecko) SamsungBrowser/1.0 TV Safari/538.1
-http://strimer1.iptv-max.com:109/live?channelId=1218&uid=51359&deviceMac=00:C3:F4:EC:A1:F4&anycast=9af9d388d1dff719dede1264209dd860&smart=1
-#EXTINF:-1 group-title="Djeciji",Lana Cartoons EN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 2.3) AppleWebkit/538.1 (KHTML, like Gecko) SamsungBrowser/1.0 TV Safari/538.1
-http://strimer3.iptv-max.com:83/live?channelId=1293&uid=51359&deviceMac=00:C3:F4:EC:A1:F4&anycast=e94a7669ce4d6060d354e9fb95f70add&smart=1
-#EXTINF:-1 group-title="Djeciji",Boomerang
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 2.3) AppleWebkit/538.1 (KHTML, like Gecko) SamsungBrowser/1.0 TV Safari/538.1
-http://strimer3.iptv-max.com:81/live?channelId=180&uid=51359&deviceMac=00:C3:F4:EC:A1:F4&anycast=bd2ba824be7574b67142fd72a53c8e0d&smart=1
-#EXTINF:-1 group-title="Djeciji",Cartoon Network
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 2.3) AppleWebkit/538.1 (KHTML, like Gecko) SamsungBrowser/1.0 TV Safari/538.1
-http://strimer3.iptv-max.com:83/live?channelId=405&uid=51359&deviceMac=00:C3:F4:EC:A1:F4&anycast=4d884dadb46d05871a82b341bd00484b&smart=1
-#EXTINF:-1 group-title="Djeciji",RTL Kockica
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 2.3) AppleWebkit/538.1 (KHTML, like Gecko) SamsungBrowser/1.0 TV Safari/538.1
-http://strimer3.iptv-max.com:88/live?channelId=71&uid=51359&deviceMac=00:C3:F4:EC:A1:F4&anycast=4187c2057a6d51a74747f63ed02ad162&smart=1
-#EXTINF:-1 group-title="Djeciji",Nickelodeon sr
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 2.3) AppleWebkit/538.1 (KHTML, like Gecko) SamsungBrowser/1.0 TV Safari/538.1
-http://strimer3.iptv-max.com:91/live?channelId=1561&uid=51359&deviceMac=00:C3:F4:EC:A1:F4&anycast=9ddf0dcc446ac2724a937089c67ce097&smart=1
-#EXTINF:-1 group-title="Djeciji",Nickelodeon hr
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 2.3) AppleWebkit/538.1 (KHTML, like Gecko) SamsungBrowser/1.0 TV Safari/538.1
-http://strimer1.iptv-max.com:94/live?channelId=280&uid=51359&deviceMac=00:C3:F4:EC:A1:F4&anycast=ddec79d2349afdfa0675d26ef3419b11&smart=1
-#EXTINF:-1 group-title="Djeciji",Nick Junior sr
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 2.3) AppleWebkit/538.1 (KHTML, like Gecko) SamsungBrowser/1.0 TV Safari/538.1
-http://sport.ddstream.info:7111/live?channelId=1562&uid=51359&deviceMac=00:C3:F4:EC:A1:F4&anycast=dd8c2ab667155503ae9e3ed0b9ffef7d&smart=1
-#EXTINF:-1 group-title="Djeciji",Nick Junior hr
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 2.3) AppleWebkit/538.1 (KHTML, like Gecko) SamsungBrowser/1.0 TV Safari/538.1
-http://strimer3.iptv-max.com:82/live?channelId=1394&uid=51359&deviceMac=00:C3:F4:EC:A1:F4&anycast=17169ab06356528d0ae60b8eee890823&smart=1
-#EXTINF:-1 group-title="Djeciji",Decija TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 2.3) AppleWebkit/538.1 (KHTML, like Gecko) SamsungBrowser/1.0 TV Safari/538.1
-http://sport.ddstream.info:7094/live?channelId=1290&uid=51359&deviceMac=00:C3:F4:EC:A1:F4&anycast=baa404856cc6bf4cf6aed2d67d7cef58&smart=1
-#EXTINF:-1 group-title="Djeciji",pikaboo
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 2.3) AppleWebkit/538.1 (KHTML, like Gecko) SamsungBrowser/1.0 TV Safari/538.1
-http://strimer3.iptv-max.com:87/live?channelId=519&uid=51359&deviceMac=00:C3:F4:EC:A1:F4&anycast=eaca26bda03c7fdb38c5f3a230fa25e6&smart=1
-#EXTINF:-1 group-title="Djeciji",Disney Junior TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 2.3) AppleWebkit/538.1 (KHTML, like Gecko) SamsungBrowser/1.0 TV Safari/538.1
-http://ostali.ddstream.info:7100/live?channelId=1289&uid=51359&deviceMac=00:C3:F4:EC:A1:F4&anycast=3c21841ffeb4c3fc3ed1ae77c4b51aed&smart=1
-#EXTINF:-1 group-title="Djeciji",Mini Ultra
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 2.3) AppleWebkit/538.1 (KHTML, like Gecko) SamsungBrowser/1.0 TV Safari/538.1
-http://strimer3.iptv-max.com:81/live?channelId=1663&uid=51359&deviceMac=00:C3:F4:EC:A1:F4&anycast=431a124634ca5135d12ccd8a3323fb7d&smart=1
-#EXTINF:-1 group-title="Djeciji",Baby TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 2.3) AppleWebkit/538.1 (KHTML, like Gecko) SamsungBrowser/1.0 TV Safari/538.1
-http://strimer3.iptv-max.com:83/live?channelId=1047&uid=51359&deviceMac=00:C3:F4:EC:A1:F4&anycast=bb6d90583a88ce36d9797d1ca770ea8e&smart=1
-#EXTINF:-1 group-title="Djeciji",Monte kids
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 2.3) AppleWebkit/538.1 (KHTML, like Gecko) SamsungBrowser/1.0 TV Safari/538.1
-http://sport.ddstream.info:7090/live?channelId=1439&uid=51359&deviceMac=00:C3:F4:EC:A1:F4&anycast=57aedf3af819e314d4b666945fc7370b&smart=1
-#EXTINF:-1 group-title="Djeciji",Minimax
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 2.3) AppleWebkit/538.1 (KHTML, like Gecko) SamsungBrowser/1.0 TV Safari/538.1
-http://strimer1.iptv-max.com:81/live?channelId=1563&uid=51359&deviceMac=00:C3:F4:EC:A1:F4&anycast=20b31fe379fc389db1d15a73ef2bb32c&smart=1
+http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/70254.ts
+#EXTINF:-1 tvg-id="" tvg-name="Moja&Tvoja Muzika" tvg-logo="" group-title="Muzicki",Moja&Tvoja Muzika
+http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/39630.ts
+#EXTINF:-1 tvg-id="" tvg-name="Moja tv Zabava" tvg-logo="" group-title="Muzicki",Moja tv Zabava
+http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/39648.ts
+#EXTINF:-1 tvg-id="imperiatv" tvg-name="Imperija " tvg-logo="http://repo.ottshow.net/pikoni/music/imperija.gif" group-title="Muzicki",Imperija 
+http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/24800.ts
+#EXTINF:-1 tvg-id="toxic-tv" tvg-name="Toxic TV" tvg-logo="http://repo.ottshow.net/pikoni/music/toxictv.gif" group-title="Muzicki",Toxic TV
+http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/3823.ts
+#EXTINF:-1 tvg-id="idj-world-tv" tvg-name="IDJ TV HD" tvg-logo="http://repo.ottshow.net/pikoni/music/idjtvhd.gif" group-title="Muzicki",IDJ TV HD
+http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/1112.ts
+#EXTINF:-1 tvg-id="tv-sehara" tvg-name="TV Sehara Music" tvg-logo="http://repo.ottshow.net/pikoni/music/tvseharamusic.gif" group-title="Muzicki",TV Sehara Music
+http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/4264.ts
+#EXTINF:-1 tvg-id="" tvg-name="UZIVOTEKA" tvg-logo="https://repo.ottshow.net/pikoni/Ikone45/uzivoteka.gif" group-title="Muzicki",UZIVOTEKA
+http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/45114.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kafansko Vece" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/music/kafanskovece.gif" group-title="Muzicki",Kafansko Vece
+http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/70263.ts
+#EXTINF:-1 tvg-id="extratv" tvg-name="Extra Tv" tvg-logo="https://repo.ottshow.net/pikoni/zadnji%20update/extratv.gif" group-title="Muzicki",Extra Tv
+http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/68474.ts
+#EXTINF:-1 tvg-id="hayat-music" tvg-name="Hayat Music" tvg-logo="http://repo.ottshow.net/pikoni/music/hayatmusic.gif" group-title="Muzicki",Hayat Music
+http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/51.ts
+#EXTINF:-1 tvg-id="hayat-folk" tvg-name="Hayat Folk" tvg-logo="http://repo.ottshow.net/pikoni/music/hayatfolk.gif" group-title="Muzicki",Hayat Folk
+http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/131.ts
+#EXTINF:-1 tvg-id="bn-music" tvg-name="BN Music" tvg-logo="http://repo.ottshow.net/pikoni/music/bnmusic.gif" group-title="Muzicki",BN Music
+http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/46.ts
+#EXTINF:-1 tvg-id="dmsat" tvg-name="DM Sat" tvg-logo="http://repo.ottshow.net/pikoni/music/dmsat.gif" group-title="Muzicki",DM Sat
+http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/26004.ts
+#EXTINF:-1 tvg-id="bravo-mjuzik" tvg-name="Bravo Music" tvg-logo="http://repo.ottshow.net/pikoni/music/bravo_music.gif" group-title="Muzicki",Bravo Music
+http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/35952.ts
+#EXTINF:-1 tvg-id="pink-folk" tvg-name="Pink Folk 1" tvg-logo="http://repo.ottshow.net/pikoni/music/pinkfolk1.gif" group-title="Muzicki",Pink Folk 1
+http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/97.ts
+#EXTINF:-1 tvg-id="pink-folk-2" tvg-name="Pink Folk 2" tvg-logo="http://repo.ottshow.net/pikoni/music/pinkfolk2.gif" group-title="Muzicki",Pink Folk 2
+http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/504.ts
+#EXTINF:-1 tvg-id="grand-narodna-tv" tvg-name="Grand" tvg-logo="http://repo.ottshow.net/pikoni/music/grand.gif" group-title="Muzicki",Grand
+http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/21.ts
+#EXTINF:-1 tvg-id="" tvg-name="Grand 2" tvg-logo="http://repo.ottshow.net/pikoni/music/grand2.gif" group-title="Muzicki",Grand 2
+http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/1071.ts
+#EXTINF:-1 tvg-id="sevdah-tv" tvg-name="TV Sevdah" tvg-logo="http://repo.ottshow.net/pikoni/music/tvsevdah.gif" group-title="Muzicki",TV Sevdah
+http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/730.ts
+#EXTINF:-1 tvg-id="izvorna-tv" tvg-name="Izvorna TV" tvg-logo="http://repo.ottshow.net/pikoni/music/izvornatv.gif" group-title="Muzicki",Izvorna TV
+http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/231.ts
+#EXTINF:-1 tvg-id="otv-valentino" tvg-name="OTV Valentino" tvg-logo="http://repo.ottshow.net/pikoni/music/otvvaletinovo.gif" group-title="Muzicki",OTV Valentino
+http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/152.ts
+#EXTINF:-1 tvg-id="valentino-music" tvg-name="Valentino Music" tvg-logo="http://repo.ottshow.net/pikoni/music/valetinovofolk.gif" group-title="Muzicki",Valentino Music
+http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/32083.ts
+#EXTINF:-1 tvg-id="valentino-etno" tvg-name="Valentino Etno" tvg-logo="http://repo.ottshow.net/pikoni/music/valetino-etno.gif" group-title="Muzicki",Valentino Etno
+http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/32082.ts
+#EXTINF:-1 tvg-id="" tvg-name="BMC Music" tvg-logo="http://repo.ottshow.net/pikoni/music/bmc_music.gif" group-title="Muzicki",BMC Music
+http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/35956.ts
+#EXTINF:-1 tvg-id="" tvg-name="BMC Etno" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/music/bmcetno.gif" group-title="Muzicki",BMC Etno
+http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/69399.ts
+#EXTINF:-1 tvg-id="" tvg-name="CityPlay" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/music/cityplay.gif" group-title="Muzicki",CityPlay
+http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/69400.ts
+#EXTINF:-1 tvg-id="" tvg-name="Toxic Folk" tvg-logo="https://repo.ottshow.net/pikoni/music/toxic-folk.gif" group-title="Muzicki",Toxic Folk
+http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/66261.ts
+#EXTINF:-1 tvg-id="tv-duga-sat" tvg-name="Duga TV" tvg-logo="http://repo.ottshow.net/pikoni/music/tvduga.gif" group-title="Muzicki",Duga TV
+http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/549.ts
+#EXTINF:-1 tvg-id="" tvg-name="KCN 1" tvg-logo="http://repo.ottshow.net/pikoni/music/kcn1.gif" group-title="Muzicki",KCN 1
+http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/630.ts
+#EXTINF:-1 tvg-id="" tvg-name="KCN 2" tvg-logo="http://repo.ottshow.net/pikoni/music/kcn2.gif" group-title="Muzicki",KCN 2
+http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/641.ts
+#EXTINF:-1 tvg-id="" tvg-name="O Kanal Music" tvg-logo="http://repo.ottshow.net/pikoni/music/O%20KANAL%20MUSIC.gif" group-title="Muzicki",O Kanal Music
+http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/36412.ts
+#EXTINF:-1 tvg-id="" tvg-name="DMC Tv" tvg-logo="https://repo.ottshow.net/pikoni/ukon34/music/dmctv.gif" group-title="Muzicki",DMC Tv
+http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/69133.ts
+#EXTINF:-1 tvg-id="" tvg-name="Hit Tv" tvg-logo="http://repo.ottshow.net/pikoni/music/narodnatvhr.gif" group-title="Muzicki",Hit Tv
+http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/2867.ts
+#EXTINF:-1 tvg-id="jugoton-tv" tvg-name="Jugoton TV" tvg-logo="http://repo.ottshow.net/pikoni/music/jugoton.gif" group-title="Muzicki",Jugoton TV
+http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/251.ts
+#EXTINF:-1 tvg-id="cmc" tvg-name="CMC" tvg-logo="http://repo.ottshow.net/pikoni/music/cmctv.gif" group-title="Muzicki",CMC
+http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/113.ts
+#EXTINF:-1 tvg-id="" tvg-name="Banovina " tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/banovinatv.gif" group-title="Muzicki",Banovina 
+http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/1552.ts
+#EXTINF:-1 tvg-id="" tvg-name="Klape i Tambure" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/music/klapeitambure.gif" group-title="Muzicki",Klape i Tambure
+http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/69348.ts
+#EXTINF:-1 tvg-id="" tvg-name="Croatia Records" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/music/croatiarecords.gif" group-title="Muzicki",Croatia Records
+http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/69902.ts
+#EXTINF:-1 tvg-id="pink-hits" tvg-name="Pink Hits" tvg-logo="http://repo.ottshow.net/pikoni/music/pinkhits.gif" group-title="Muzicki",Pink Hits
+http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/4140.ts
+#EXTINF:-1 tvg-id="pink-n-roll" tvg-name="Pink n Roll" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/music/pinknroll.gif" group-title="Muzicki",Pink n Roll
+http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/69401.ts
+#EXTINF:-1 tvg-id="balkanika" tvg-name="Balkanika" tvg-logo="http://repo.ottshow.net/pikoni/music/balkanka.gif" group-title="Muzicki",Balkanika
+http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/239.ts
+#EXTINF:-1 tvg-id="" tvg-name="Krone Hit" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/music/kronehit.gif" group-title="Muzicki",Krone Hit
+http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/69786.ts
+#EXTINF:-1 tvg-id="mtv-hits-international" tvg-name="MTV Hits" tvg-logo="http://repo.ottshow.net/pikoni/music/mtvhits.gif" group-title="Muzicki",MTV Hits
+http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/16758.ts
+#EXTINF:-1 tvg-id="mtv00s" tvg-name="MTV 00s" tvg-logo="http://repo.ottshow.net/pikoni/music/vh1.gif" group-title="Muzicki",MTV 00s
+http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/50.ts
+#EXTINF:-1 tvg-id="" tvg-name="MTV 80s" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/music/mtv80s.gif" group-title="Muzicki",MTV 80s
+http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/69350.ts
+#EXTINF:-1 tvg-id="" tvg-name="MTV 90s" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/music/mtv90s.gif" group-title="Muzicki",MTV 90s
+http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/69349.ts
+#EXTINF:-1 tvg-id="mtv-dance-international" tvg-name="MTV Club" tvg-logo="http://repo.ottshow.net/pikoni/music/mtvdance.gif" group-title="Muzicki",MTV Club
+http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/16759.ts
+#EXTINF:-1 tvg-id="babytv" tvg-name="Baby TV" tvg-logo="http://repo.ottshow.net/pikoni/kids/babytv.gif" group-title="Djeciji",Baby TV
+http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/40217.ts
+#EXTINF:-1 tvg-id="minimax" tvg-name="Minimax" tvg-logo="http://repo.ottshow.net/pikoni/kids/minimax.gif" group-title="Djeciji",Minimax
+http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/93.ts
+#EXTINF:-1 tvg-id="minitv" tvg-name="Mini Tv" tvg-logo="http://repo.ottshow.net/pikoni/kids/minitv.gif" group-title="Djeciji",Mini Tv
+http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/265.ts
+#EXTINF:-1 tvg-id="nick-jr" tvg-name="Nick Jr Hr." tvg-logo="https://repo.ottshow.net/pikoni/Ikone45/nickjrhr.gif" group-title="Djeciji",Nick Jr Hr.
+http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/25986.ts
+#EXTINF:-1 tvg-id="nick-jr" tvg-name="Nick Jr " tvg-logo="http://repo.ottshow.net/pikoni/kids/nickjr.gif" group-title="Djeciji",Nick Jr 
+http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/68475.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nicktoons Hr." tvg-logo="http://repo.ottshow.net/pikoni/kids/juniorde.gif" group-title="Djeciji",Nicktoons Hr.
+http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/71269.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nicktoons" tvg-logo="http://repo.ottshow.net/pikoni/kids/juniorde.gif" group-title="Djeciji",Nicktoons
+http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/40979.ts
+#EXTINF:-1 tvg-id="nickelodeon" tvg-name="Nickelodeon Hr." tvg-logo="https://repo.ottshow.net/pikoni/zadnji%20update/nicklodeonhr.gif" group-title="Djeciji",Nickelodeon Hr.
+http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/25987.ts
+#EXTINF:-1 tvg-id="nickelodeon" tvg-name="Nickelodeon " tvg-logo="http://repo.ottshow.net/pikoni/kids/nickeleodon.gif" group-title="Djeciji",Nickelodeon 
+http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/68476.ts
+#EXTINF:-1 tvg-id="cartoon-network" tvg-name="Cartoon Network Hr." tvg-logo="https://repo.ottshow.net/pikoni/kids/cartonnettwork.gif" group-title="Djeciji",Cartoon Network Hr.
+http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/71267.ts
+#EXTINF:-1 tvg-id="cartoon-network" tvg-name="Cartoon Network" tvg-logo="https://repo.ottshow.net/pikoni/kids/cartonnettwork.gif" group-title="Djeciji",Cartoon Network
+http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/71113.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tnt Kids" tvg-logo="http://repo.ottshow.net/pikoni/kids/pikaboo.gif" group-title="Djeciji",Tnt Kids
+http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/66257.ts
+#EXTINF:-1 tvg-id="pink-kids" tvg-name="Pink Kids" tvg-logo="http://repo.ottshow.net/pikoni/kids/pinkkids.gif" group-title="Djeciji",Pink Kids
+http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/266.ts
+#EXTINF:-1 tvg-id="pink-super-kids" tvg-name="Pink Super Kids" tvg-logo="https://repo.ottshow.net/pikoni/ikone45345/pinksuperkids.gif" group-title="Djeciji",Pink Super Kids
+http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/71270.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kazbuka" tvg-logo="https://repo.ottshow.net/pikoni/konacno/Kids/kazbuka.gif" group-title="Djeciji",Kazbuka
+http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/71116.ts
+#EXTINF:-1 tvg-id="pikaboo" tvg-name="Pikaboo" tvg-logo="http://repo.ottshow.net/pikoni/kids/pikaboo.gif" group-title="Djeciji",Pikaboo
+http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/3854.ts
+#EXTINF:-1 tvg-id="" tvg-name="Toon Kids" tvg-logo="http://repo.ottshow.net/pikoni/kids/orlandokids.gif" group-title="Djeciji",Toon Kids
+http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/8858.ts
+#EXTINF:-1 tvg-id="hayatovci" tvg-name="Hayatovci" tvg-logo="http://repo.ottshow.net/pikoni/kids/hayatovci.gif" group-title="Djeciji",Hayatovci
+http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/25970.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cartoonito" tvg-logo="https://repo.ottshow.net/pikoni/kids/boomerangtv.gif" group-title="Djeciji",Cartoonito
+http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/71114.ts
+#EXTINF:-1 tvg-id="rtl-kockica" tvg-name="Rtl Kockica" tvg-logo="http://repo.ottshow.net/pikoni/kids/rtl-kockica.gif" group-title="Djeciji",Rtl Kockica
+http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/25997.ts
+#EXTINF:-1 tvg-id="disney-channel" tvg-name="Disney Chanel " tvg-logo="https://repo.ottshow.net/pikoni/kids/disneychannelde.gif" group-title="Djeciji",Disney Chanel 
+http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/71109.ts
+#EXTINF:-1 tvg-id="disney-junior" tvg-name="Disney Junior " tvg-logo="https://repo.ottshow.net/pikoni/poljednji/spanian/disnyjunior.gif" group-title="Djeciji",Disney Junior 
+http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/71268.ts
+#EXTINF:-1 tvg-id="" tvg-name="Dexy Tv" tvg-logo="https://repo.ottshow.net/pikoni/kids/dexytv.gif" group-title="Djeciji",Dexy Tv
+http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/67745.ts
+#EXTINF:-1 tvg-id="" tvg-name="JimJam" tvg-logo="https://repo.ottshow.net/pikoni/zadnji%20update/jimjam.gif" group-title="Djeciji",JimJam
+http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/68479.ts
+#EXTINF:-1 tvg-id="" tvg-name="Looney Tunes " tvg-logo="https://i.imgur.com/gVMdQt2.gif" group-title="Djeciji",Looney Tunes 
+http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/45122.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tom and Jerry" tvg-logo="https://repo.ottshow.net/pikoni/kids/tomandjerry.gif" group-title="Djeciji",Tom and Jerry
+http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/67747.ts
+#EXTINF:-1 tvg-id="" tvg-name="Psici u Ophodnji" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/kids/psiciuophodnji.gif" group-title="Djeciji",Psici u Ophodnji
+http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/69630.ts
+#EXTINF:-1 tvg-id="" tvg-name="CoComelon" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/kids/cocomeleon.gif" group-title="Djeciji",CoComelon
+http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/69637.ts
+#EXTINF:-1 tvg-id="" tvg-name="Masa i Medo" tvg-logo="https://repo.ottshow.net/pikoni/kids/masaimedo.gif" group-title="Djeciji",Masa i Medo
+http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/67743.ts
+#EXTINF:-1 tvg-id="" tvg-name="Pepa Prašcic" tvg-logo="https://repo.ottshow.net/pikoni/kids/pepaprascic.gif" group-title="Djeciji",Pepa Prašcic
+http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/67746.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tri Mace" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/kids/trimace.gif" group-title="Djeciji",Tri Mace
+http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/69635.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nova  Kids" tvg-logo="https://repo.ottshow.net/pikoni/kids/novakids.gif" group-title="Djeciji",Nova  Kids
+http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/67744.ts
+#EXTINF:-1 tvg-id="" tvg-name="IDJ Kids" tvg-logo="https://repo.ottshow.net/pikoni/ukon34/kids/idjkids.gif" group-title="Djeciji",IDJ Kids
+http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/68943.ts
+#EXTINF:-1 tvg-id="" tvg-name="A Je To" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/kids/a-je-to.gif" group-title="Djeciji",A Je To
+http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/69632.ts
+#EXTINF:-1 tvg-id="" tvg-name="Strumpfovi" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/kids/strumfovi.gif" group-title="Djeciji",Strumpfovi
+http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/69633.ts
+#EXTINF:-1 tvg-id="" tvg-name="Pingvini" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/kids/pingvini.gif" group-title="Djeciji",Pingvini
+http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/69634.ts
 #EXTINF:-1 tvg-id="izvornatv" tvg-name="Izvorna TV  " tvg-logo="http://smartntv.pro/logokanali/muzik/izvorna.png" group-title="Muzicki",Izvorna TV  
 http://smartntv.pro:25461/888mirobec/ocLxZY2gmO/6796
 #EXTINF:-1 tvg-id="" tvg-name="Duga+" tvg-logo="http://smartntv.pro/logokanali/muzik/duga.png" group-title="Muzicki",Duga+
@@ -431,9 +411,8 @@ http://smartntv.pro:25461/888mirobec/ocLxZY2gmO/6343
 http://smartntv.pro:25461/888mirobec/ocLxZY2gmO/20367
 #EXTINF:-1 tvg-id="" tvg-name="ArenaSport 2 Premium" tvg-logo="http://smartntv.pro/logokanali/sport/premium.png" group-title="Sport",ArenaSport 2 Premium
 http://smartntv.pro:25461/888mirobec/ocLxZY2gmO/20371
-#EXTINF:-1 group-title="Sport",Arena 3 PREMIUM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 2.3) AppleWebkit/538.1 (KHTML, like Gecko) SamsungBrowser/1.0 TV Safari/538.1
-http://sport.ddstream.info:7094/live?channelId=976&uid=51359&deviceMac=00:C3:F4:EC:A1:F4&anycast=92c52a1f2197a82bb27bd7bf096f43f2&smart=1
+#EXTINF:-1 tvg-id="" tvg-name="ArenaSport 3 Premium" tvg-logo="http://smartntv.pro/logokanali/sport/premium.png" group-title="Sport",ArenaSport 3 Premium
+http://smartntv.pro:25461/888mirobec/ocLxZY2gmO/20372
 #EXTINF:-1 tvg-id="tv-arena-sport-1" tvg-name="ArenaSport 1  SR " tvg-logo="http://smartntv.pro/logokanali/sport/arena1.png" group-title="Sport",ArenaSport 1  SR 
 http://smartntv.pro:25461/888mirobec/ocLxZY2gmO/6558
 #EXTINF:-1 tvg-id="tv-arena-sport-2" tvg-name="ArenaSport 2 SR " tvg-logo="http://smartntv.pro/logokanali/sport/arena2.png" group-title="Sport",ArenaSport 2 SR 
@@ -715,8 +694,7 @@ http://smartntv.pro:25461/888mirobec/ocLxZY2gmO/6441
 #EXTINF:-1 tvg-id="pink-horror" tvg-name="Pink Horror" tvg-logo="http://smartntv.pro/logokanali/pink/pinkhorror.png" group-title="Pink",Pink Horror
 http://smartntv.pro:25461/888mirobec/ocLxZY2gmO/6442
 #EXTINF:-1 tvg-id="pink-horror" tvg-name="Pink Horror" tvg-logo="http://smartntv.pro/logokanali/pink/pinkhorror.png" group-title="Pink",Pink Horror - Rezerva
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 2.3) AppleWebkit/538.1 (KHTML, like Gecko) SamsungBrowser/1.0 TV Safari/538.1
-http://sport.ddstream.info:7097/live?channelId=118&uid=51359&deviceMac=00:C3:F4:EC:A1:F4&anycast=12b617f63f86a49bd16462bdbdcebec8&smart=1
+http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/108.ts
 #EXTINF:-1 tvg-id="pink-world-cinema" tvg-name="Pink World Cinema" tvg-logo="http://smartntv.pro/logokanali/pink/pinkworldcinema.png" group-title="Pink",Pink World Cinema
 http://smartntv.pro:25461/888mirobec/ocLxZY2gmO/6443
 #EXTINF:-1 tvg-id="pink-movies-3" tvg-name="PINK Sci-Fi & Fantasy" tvg-logo="http://smartntv.pro/logokanali/pink/pinkscifi.png" group-title="Pink",PINK Sci-Fi & Fantasy
@@ -922,14 +900,11 @@ http://smartntv.pro:25461/888mirobec/ocLxZY2gmO/13455
 #EXTINF:-1 tvg-id="htv2" tvg-name="MojaTV " tvg-logo="http://smartntv.pro/logokanali/sport/mojatv.png" group-title="Sport",MojaTV 
 http://smartntv.pro:25461/888mirobec/ocLxZY2gmO/6563
 #EXTINF:-1 group-title="CRNOGORSKI",MneSport1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 2.3) AppleWebkit/538.1 (KHTML, like Gecko) SamsungBrowser/1.0 TV Safari/538.1
-http://strimer1.iptv-max.com:87/live?channelId=1604&uid=51359&deviceMac=00:C3:F4:EC:A1:F4&anycast=07807a8930c15324a414129c56bd00fb&smart=1
+http://cmsott.com:8080/Ramizahmetibsj/QkBumXynDNW3/16744
 #EXTINF:-1 group-title="CRNOGORSKI",MneSport2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 2.3) AppleWebkit/538.1 (KHTML, like Gecko) SamsungBrowser/1.0 TV Safari/538.1
-http://strimer3.iptv-max.com:90/live?channelId=1640&uid=51359&deviceMac=00:C3:F4:EC:A1:F4&anycast=276e5fd9c386939e3a4253af88b71836&smart=1
+http://cmsott.com:8080/Ramizahmetibsj/QkBumXynDNW3/16745
 #EXTINF:-1 group-title="CRNOGORSKI",MneSport3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 2.3) AppleWebkit/538.1 (KHTML, like Gecko) SamsungBrowser/1.0 TV Safari/538.1
-http://strimer3.iptv-max.com:104/live?channelId=1457&uid=51359&deviceMac=00:C3:F4:EC:A1:F4&anycast=d11825dd695af192466645d8765ea630&smart=1
+http://cmsott.com:8080/Ramizahmetibsj/QkBumXynDNW3/16746
 #EXTINF:-1 tvg-id="sportska-televizija" tvg-name="Sportska TV" tvg-logo="http://smartntv.pro/logokanali/sport/sportskatv.png" group-title="Sport",Sportska TV
 http://smartntv.pro:25461/888mirobec/ocLxZY2gmO/6586
 #EXTINF:-1 tvg-id="" tvg-name="EuroSport1DE" tvg-logo="http://smartntv.pro/logokanali/sport/eurosport1.png" group-title="Sport",EuroSport1DE

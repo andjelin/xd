@@ -1,22 +1,22 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="tvcg1" group-title="CRNOGORSKI",RTCG 1
-http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/1080.ts
+http://185.53.88.26:80/live/Spasadima12/Dimaspasa12/1080.ts
 #EXTINF:-1 tvg-id="tvcg2" group-title="CRNOGORSKI",RTCG 2
-http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/2543.ts
+http://185.53.88.26:80/live/Spasadima12/Dimaspasa12/2543.ts
 #EXTINF:-1 tvg-id="tvcg1" group-title="CRNOGORSKI",RTCG 1 *hevc*
 http://smartntv.pro:25461/888mirobec/ocLxZY2gmO/11178
 #EXTINF:-1 tvg-id="tvcg2" tvg-name="RTCG 2 " tvg-logo="http://smartntv.pro/logokanali/srb/rtcg2.png" group-title="CRNOGORSKI",RTCG 2 
 http://smartntv.pro:25461/888mirobec/ocLxZY2gmO/6801
 #EXTINF:-1 group-title="CRNOGORSKI",Parlamentarni TV
-http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/71122.ts
+http://185.53.88.26:80/live/Spasadima12/Dimaspasa12/71122.ts
 #EXTINF:-1 tvg-id="tvcg-sat" group-title="CRNOGORSKI",RTCG Sat
-http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/71118.ts
+http://185.53.88.26:80/live/Spasadima12/Dimaspasa12/71118.ts
 #EXTINF:-1 tvg-id="tv-vijesti" group-title="CRNOGORSKI",TV Vijesti
 http://smartntv.pro:25461/888mirobec/ocLxZY2gmO/6802
 #EXTINF:-1 group-title="CRNOGORSKI",TV NOVA M
 http://smartntv.pro:25461/888mirobec/ocLxZY2gmO/11179
 #EXTINF:-1 group-title="CRNOGORSKI",PRVA CG
-http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/9920.ts
+http://185.53.88.26:80/live/Spasadima12/Dimaspasa12/9920.ts
 #EXTINF:-1 group-title="CRNOGORSKI",Pink M
 http://smartntv.pro:25461/888mirobec/ocLxZY2gmO/6436
 #EXTINF:-1 group-title="CRNOGORSKI",Rozaje TV
@@ -36,9 +36,9 @@ http://cmsott.com:8080/Ramizahmetibsj/QkBumXynDNW3/29866
 #EXTINF:-1 group-title="CRNOGORSKI",TV Montenegro Luxemburg
 http://smartntv.pro:25461/888mirobec/ocLxZY2gmO/26328
 #EXTINF:-1 group-title="CRNOGORSKI",TV 777
-http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/2770.ts
+http://185.53.88.26:80/live/Spasadima12/Dimaspasa12/2770.ts
 #EXTINF:-1 tvg-id="rts1" tvg-name="RTS 1 " tvg-logo="http://smartntv.pro/logokanali/srb/rts1.png" group-title="Srbija",RTS 1 
-http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/39647.ts
+http://185.53.88.26:80/live/Spasadima12/Dimaspasa12/39647.ts
 #EXTINF:-1 tvg-id="rts1" tvg-name="RTS 1 - Rezerva" tvg-logo="http://smartntv.pro/logokanali/srb/rts1.png" group-title="Srbija",RTS 1 - Rezerva
 http://smartntv.pro:25461/888mirobec/ocLxZY2gmO/6312
 #EXTINF:-1 tvg-id="rts2" tvg-name="RTS 2 " tvg-logo="http://smartntv.pro/logokanali/srb/rts2.png" group-title="Srbija",RTS 2 
@@ -186,215 +186,215 @@ http://smartntv.pro:25461/888mirobec/ocLxZY2gmO/6795
 #EXTINF:-1 group-title="Pink",Pink Music
 http://cmsott.com:8080/Ramizahmetibsj/QkBumXynDNW3/13369
 #EXTINF:-1 group-title="Pink",Pink hits
-http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/4140.ts
+http://185.53.88.26:80/live/Spasadima12/Dimaspasa12/4140.ts
 #EXTINF:-1 group-title="Pink",Pink Folk 1
-http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/97.ts
+http://185.53.88.26:80/live/Spasadima12/Dimaspasa12/97.ts
 #EXTINF:-1 group-title="Pink",Pink Folk 2
-http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/504.ts
+http://185.53.88.26:80/live/Spasadima12/Dimaspasa12/504.ts
 #EXTINF:-1 group-title="Pink",pink haha
-http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/1161.ts
+http://185.53.88.26:80/live/Spasadima12/Dimaspasa12/1161.ts
 #EXTINF:-1 group-title="Pink",Pink Lol
-http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/2612.ts
+http://185.53.88.26:80/live/Spasadima12/Dimaspasa12/2612.ts
 #EXTINF:-1 group-title="Pink",Pink Super Kids
-http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/71270.ts
+http://185.53.88.26:80/live/Spasadima12/Dimaspasa12/71270.ts
 #EXTINF:-1 group-title="Pink",Pink Kids
-http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/266.ts
+http://185.53.88.26:80/live/Spasadima12/Dimaspasa12/266.ts
 #EXTINF:-1 group-title="Muzicki",Grand TV
-http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/21.ts
+http://185.53.88.26:80/live/Spasadima12/Dimaspasa12/21.ts
 #EXTINF:-1 group-title="Muzicki",Grand TV 2
-http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/1071.ts
+http://185.53.88.26:80/live/Spasadima12/Dimaspasa12/1071.ts
 #EXTINF:-1 group-title="Muzicki",idJ TV
-http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/1112.ts
+http://185.53.88.26:80/live/Spasadima12/Dimaspasa12/1112.ts
 #EXTINF:-1 group-title="Muzicki",DM Sat
-http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/26004.ts
+http://185.53.88.26:80/live/Spasadima12/Dimaspasa12/26004.ts
 #EXTINF:-1 group-title="Muzicki",OTV Valentino
-http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/152.ts
+http://185.53.88.26:80/live/Spasadima12/Dimaspasa12/152.ts
 #EXTINF:-1 group-title="Muzicki",Uzivoteka
-http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/45114.ts
+http://185.53.88.26:80/live/Spasadima12/Dimaspasa12/45114.ts
 #EXTINF:-1 group-title="Muzicki",TV SEHARA
-http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/4264.ts
+http://185.53.88.26:80/live/Spasadima12/Dimaspasa12/4264.ts
 #EXTINF:-1 group-title="Muzicki",Sevdah TV
-http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/730.ts
+http://185.53.88.26:80/live/Spasadima12/Dimaspasa12/730.ts
 #EXTINF:-1 group-title="Muzicki",TV Glas Drine
-http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/1072.ts
+http://185.53.88.26:80/live/Spasadima12/Dimaspasa12/1072.ts
 #EXTINF:-1 group-title="Muzicki",BN Music
-http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/46.ts
+http://185.53.88.26:80/live/Spasadima12/Dimaspasa12/46.ts
 #EXTINF:-1 group-title="Muzicki",KCN 2
-http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/641.ts
+http://185.53.88.26:80/live/Spasadima12/Dimaspasa12/641.ts
 #EXTINF:-1 group-title="Muzicki",KCN 1
-http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/630.ts
+http://185.53.88.26:80/live/Spasadima12/Dimaspasa12/630.ts
 #EXTINF:-1 group-title="Muzicki",Izvorna TV
-http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/231.ts
+http://185.53.88.26:80/live/Spasadima12/Dimaspasa12/231.ts
 #EXTINF:-1 group-title="Muzicki",Duga TV
-http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/231.ts
+http://185.53.88.26:80/live/Spasadima12/Dimaspasa12/231.ts
 #EXTINF:-1 group-title="Muzicki",Yu planet radio
-http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/70254.ts
+http://185.53.88.26:80/live/Spasadima12/Dimaspasa12/70254.ts
 #EXTINF:-1 tvg-id="" tvg-name="Moja&Tvoja Muzika" tvg-logo="" group-title="Muzicki",Moja&Tvoja Muzika
-http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/39630.ts
+http://185.53.88.26:80/live/Spasadima12/Dimaspasa12/39630.ts
 #EXTINF:-1 tvg-id="" tvg-name="Moja tv Zabava" tvg-logo="" group-title="Muzicki",Moja tv Zabava
-http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/39648.ts
+http://185.53.88.26:80/live/Spasadima12/Dimaspasa12/39648.ts
 #EXTINF:-1 tvg-id="imperiatv" tvg-name="Imperija " tvg-logo="http://repo.ottshow.net/pikoni/music/imperija.gif" group-title="Muzicki",Imperija 
-http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/24800.ts
+http://185.53.88.26:80/live/Spasadima12/Dimaspasa12/24800.ts
 #EXTINF:-1 tvg-id="toxic-tv" tvg-name="Toxic TV" tvg-logo="http://repo.ottshow.net/pikoni/music/toxictv.gif" group-title="Muzicki",Toxic TV
-http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/3823.ts
+http://185.53.88.26:80/live/Spasadima12/Dimaspasa12/3823.ts
 #EXTINF:-1 tvg-id="idj-world-tv" tvg-name="IDJ TV HD" tvg-logo="http://repo.ottshow.net/pikoni/music/idjtvhd.gif" group-title="Muzicki",IDJ TV HD
-http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/1112.ts
+http://185.53.88.26:80/live/Spasadima12/Dimaspasa12/1112.ts
 #EXTINF:-1 tvg-id="tv-sehara" tvg-name="TV Sehara Music" tvg-logo="http://repo.ottshow.net/pikoni/music/tvseharamusic.gif" group-title="Muzicki",TV Sehara Music
-http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/4264.ts
+http://185.53.88.26:80/live/Spasadima12/Dimaspasa12/4264.ts
 #EXTINF:-1 tvg-id="" tvg-name="UZIVOTEKA" tvg-logo="https://repo.ottshow.net/pikoni/Ikone45/uzivoteka.gif" group-title="Muzicki",UZIVOTEKA
-http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/45114.ts
+http://185.53.88.26:80/live/Spasadima12/Dimaspasa12/45114.ts
 #EXTINF:-1 tvg-id="" tvg-name="Kafansko Vece" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/music/kafanskovece.gif" group-title="Muzicki",Kafansko Vece
-http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/70263.ts
+http://185.53.88.26:80/live/Spasadima12/Dimaspasa12/70263.ts
 #EXTINF:-1 tvg-id="extratv" tvg-name="Extra Tv" tvg-logo="https://repo.ottshow.net/pikoni/zadnji%20update/extratv.gif" group-title="Muzicki",Extra Tv
-http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/68474.ts
+http://185.53.88.26:80/live/Spasadima12/Dimaspasa12/68474.ts
 #EXTINF:-1 tvg-id="hayat-music" tvg-name="Hayat Music" tvg-logo="http://repo.ottshow.net/pikoni/music/hayatmusic.gif" group-title="Muzicki",Hayat Music
-http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/51.ts
+http://185.53.88.26:80/live/Spasadima12/Dimaspasa12/51.ts
 #EXTINF:-1 tvg-id="hayat-folk" tvg-name="Hayat Folk" tvg-logo="http://repo.ottshow.net/pikoni/music/hayatfolk.gif" group-title="Muzicki",Hayat Folk
-http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/131.ts
+http://185.53.88.26:80/live/Spasadima12/Dimaspasa12/131.ts
 #EXTINF:-1 tvg-id="bn-music" tvg-name="BN Music" tvg-logo="http://repo.ottshow.net/pikoni/music/bnmusic.gif" group-title="Muzicki",BN Music
-http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/46.ts
+http://185.53.88.26:80/live/Spasadima12/Dimaspasa12/46.ts
 #EXTINF:-1 tvg-id="dmsat" tvg-name="DM Sat" tvg-logo="http://repo.ottshow.net/pikoni/music/dmsat.gif" group-title="Muzicki",DM Sat
-http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/26004.ts
+http://185.53.88.26:80/live/Spasadima12/Dimaspasa12/26004.ts
 #EXTINF:-1 tvg-id="bravo-mjuzik" tvg-name="Bravo Music" tvg-logo="http://repo.ottshow.net/pikoni/music/bravo_music.gif" group-title="Muzicki",Bravo Music
-http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/35952.ts
+http://185.53.88.26:80/live/Spasadima12/Dimaspasa12/35952.ts
 #EXTINF:-1 tvg-id="pink-folk" tvg-name="Pink Folk 1" tvg-logo="http://repo.ottshow.net/pikoni/music/pinkfolk1.gif" group-title="Muzicki",Pink Folk 1
-http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/97.ts
+http://185.53.88.26:80/live/Spasadima12/Dimaspasa12/97.ts
 #EXTINF:-1 tvg-id="pink-folk-2" tvg-name="Pink Folk 2" tvg-logo="http://repo.ottshow.net/pikoni/music/pinkfolk2.gif" group-title="Muzicki",Pink Folk 2
-http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/504.ts
+http://185.53.88.26:80/live/Spasadima12/Dimaspasa12/504.ts
 #EXTINF:-1 tvg-id="grand-narodna-tv" tvg-name="Grand" tvg-logo="http://repo.ottshow.net/pikoni/music/grand.gif" group-title="Muzicki",Grand
-http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/21.ts
+http://185.53.88.26:80/live/Spasadima12/Dimaspasa12/21.ts
 #EXTINF:-1 tvg-id="" tvg-name="Grand 2" tvg-logo="http://repo.ottshow.net/pikoni/music/grand2.gif" group-title="Muzicki",Grand 2
-http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/1071.ts
+http://185.53.88.26:80/live/Spasadima12/Dimaspasa12/1071.ts
 #EXTINF:-1 tvg-id="sevdah-tv" tvg-name="TV Sevdah" tvg-logo="http://repo.ottshow.net/pikoni/music/tvsevdah.gif" group-title="Muzicki",TV Sevdah
-http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/730.ts
+http://185.53.88.26:80/live/Spasadima12/Dimaspasa12/730.ts
 #EXTINF:-1 tvg-id="izvorna-tv" tvg-name="Izvorna TV" tvg-logo="http://repo.ottshow.net/pikoni/music/izvornatv.gif" group-title="Muzicki",Izvorna TV
-http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/231.ts
+http://185.53.88.26:80/live/Spasadima12/Dimaspasa12/231.ts
 #EXTINF:-1 tvg-id="otv-valentino" tvg-name="OTV Valentino" tvg-logo="http://repo.ottshow.net/pikoni/music/otvvaletinovo.gif" group-title="Muzicki",OTV Valentino
-http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/152.ts
+http://185.53.88.26:80/live/Spasadima12/Dimaspasa12/152.ts
 #EXTINF:-1 tvg-id="valentino-music" tvg-name="Valentino Music" tvg-logo="http://repo.ottshow.net/pikoni/music/valetinovofolk.gif" group-title="Muzicki",Valentino Music
-http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/32083.ts
+http://185.53.88.26:80/live/Spasadima12/Dimaspasa12/32083.ts
 #EXTINF:-1 tvg-id="valentino-etno" tvg-name="Valentino Etno" tvg-logo="http://repo.ottshow.net/pikoni/music/valetino-etno.gif" group-title="Muzicki",Valentino Etno
-http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/32082.ts
+http://185.53.88.26:80/live/Spasadima12/Dimaspasa12/32082.ts
 #EXTINF:-1 tvg-id="" tvg-name="BMC Music" tvg-logo="http://repo.ottshow.net/pikoni/music/bmc_music.gif" group-title="Muzicki",BMC Music
-http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/35956.ts
+http://185.53.88.26:80/live/Spasadima12/Dimaspasa12/35956.ts
 #EXTINF:-1 tvg-id="" tvg-name="BMC Etno" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/music/bmcetno.gif" group-title="Muzicki",BMC Etno
-http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/69399.ts
+http://185.53.88.26:80/live/Spasadima12/Dimaspasa12/69399.ts
 #EXTINF:-1 tvg-id="" tvg-name="CityPlay" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/music/cityplay.gif" group-title="Muzicki",CityPlay
-http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/69400.ts
+http://185.53.88.26:80/live/Spasadima12/Dimaspasa12/69400.ts
 #EXTINF:-1 tvg-id="" tvg-name="Toxic Folk" tvg-logo="https://repo.ottshow.net/pikoni/music/toxic-folk.gif" group-title="Muzicki",Toxic Folk
-http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/66261.ts
+http://185.53.88.26:80/live/Spasadima12/Dimaspasa12/66261.ts
 #EXTINF:-1 tvg-id="tv-duga-sat" tvg-name="Duga TV" tvg-logo="http://repo.ottshow.net/pikoni/music/tvduga.gif" group-title="Muzicki",Duga TV
-http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/549.ts
+http://185.53.88.26:80/live/Spasadima12/Dimaspasa12/549.ts
 #EXTINF:-1 tvg-id="" tvg-name="KCN 1" tvg-logo="http://repo.ottshow.net/pikoni/music/kcn1.gif" group-title="Muzicki",KCN 1
-http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/630.ts
+http://185.53.88.26:80/live/Spasadima12/Dimaspasa12/630.ts
 #EXTINF:-1 tvg-id="" tvg-name="KCN 2" tvg-logo="http://repo.ottshow.net/pikoni/music/kcn2.gif" group-title="Muzicki",KCN 2
-http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/641.ts
+http://185.53.88.26:80/live/Spasadima12/Dimaspasa12/641.ts
 #EXTINF:-1 tvg-id="" tvg-name="O Kanal Music" tvg-logo="http://repo.ottshow.net/pikoni/music/O%20KANAL%20MUSIC.gif" group-title="Muzicki",O Kanal Music
-http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/36412.ts
+http://185.53.88.26:80/live/Spasadima12/Dimaspasa12/36412.ts
 #EXTINF:-1 tvg-id="" tvg-name="DMC Tv" tvg-logo="https://repo.ottshow.net/pikoni/ukon34/music/dmctv.gif" group-title="Muzicki",DMC Tv
-http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/69133.ts
+http://185.53.88.26:80/live/Spasadima12/Dimaspasa12/69133.ts
 #EXTINF:-1 tvg-id="" tvg-name="Hit Tv" tvg-logo="http://repo.ottshow.net/pikoni/music/narodnatvhr.gif" group-title="Muzicki",Hit Tv
-http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/2867.ts
+http://185.53.88.26:80/live/Spasadima12/Dimaspasa12/2867.ts
 #EXTINF:-1 tvg-id="jugoton-tv" tvg-name="Jugoton TV" tvg-logo="http://repo.ottshow.net/pikoni/music/jugoton.gif" group-title="Muzicki",Jugoton TV
-http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/251.ts
+http://185.53.88.26:80/live/Spasadima12/Dimaspasa12/251.ts
 #EXTINF:-1 tvg-id="cmc" tvg-name="CMC" tvg-logo="http://repo.ottshow.net/pikoni/music/cmctv.gif" group-title="Muzicki",CMC
-http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/113.ts
+http://185.53.88.26:80/live/Spasadima12/Dimaspasa12/113.ts
 #EXTINF:-1 tvg-id="" tvg-name="Banovina " tvg-logo="https://repo.ottshow.net/pikoni/hrvatska/banovinatv.gif" group-title="Muzicki",Banovina 
-http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/1552.ts
+http://185.53.88.26:80/live/Spasadima12/Dimaspasa12/1552.ts
 #EXTINF:-1 tvg-id="" tvg-name="Klape i Tambure" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/music/klapeitambure.gif" group-title="Muzicki",Klape i Tambure
-http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/69348.ts
+http://185.53.88.26:80/live/Spasadima12/Dimaspasa12/69348.ts
 #EXTINF:-1 tvg-id="" tvg-name="Croatia Records" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/music/croatiarecords.gif" group-title="Muzicki",Croatia Records
-http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/69902.ts
+http://185.53.88.26:80/live/Spasadima12/Dimaspasa12/69902.ts
 #EXTINF:-1 tvg-id="pink-hits" tvg-name="Pink Hits" tvg-logo="http://repo.ottshow.net/pikoni/music/pinkhits.gif" group-title="Muzicki",Pink Hits
-http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/4140.ts
+http://185.53.88.26:80/live/Spasadima12/Dimaspasa12/4140.ts
 #EXTINF:-1 tvg-id="pink-n-roll" tvg-name="Pink n Roll" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/music/pinknroll.gif" group-title="Muzicki",Pink n Roll
-http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/69401.ts
+http://185.53.88.26:80/live/Spasadima12/Dimaspasa12/69401.ts
 #EXTINF:-1 tvg-id="balkanika" tvg-name="Balkanika" tvg-logo="http://repo.ottshow.net/pikoni/music/balkanka.gif" group-title="Muzicki",Balkanika
-http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/239.ts
+http://185.53.88.26:80/live/Spasadima12/Dimaspasa12/239.ts
 #EXTINF:-1 tvg-id="" tvg-name="Krone Hit" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/music/kronehit.gif" group-title="Muzicki",Krone Hit
-http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/69786.ts
+http://185.53.88.26:80/live/Spasadima12/Dimaspasa12/69786.ts
 #EXTINF:-1 tvg-id="mtv-hits-international" tvg-name="MTV Hits" tvg-logo="http://repo.ottshow.net/pikoni/music/mtvhits.gif" group-title="Muzicki",MTV Hits
-http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/16758.ts
+http://185.53.88.26:80/live/Spasadima12/Dimaspasa12/16758.ts
 #EXTINF:-1 tvg-id="mtv00s" tvg-name="MTV 00s" tvg-logo="http://repo.ottshow.net/pikoni/music/vh1.gif" group-title="Muzicki",MTV 00s
-http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/50.ts
+http://185.53.88.26:80/live/Spasadima12/Dimaspasa12/50.ts
 #EXTINF:-1 tvg-id="" tvg-name="MTV 80s" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/music/mtv80s.gif" group-title="Muzicki",MTV 80s
-http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/69350.ts
+http://185.53.88.26:80/live/Spasadima12/Dimaspasa12/69350.ts
 #EXTINF:-1 tvg-id="" tvg-name="MTV 90s" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/music/mtv90s.gif" group-title="Muzicki",MTV 90s
-http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/69349.ts
+http://185.53.88.26:80/live/Spasadima12/Dimaspasa12/69349.ts
 #EXTINF:-1 tvg-id="mtv-dance-international" tvg-name="MTV Club" tvg-logo="http://repo.ottshow.net/pikoni/music/mtvdance.gif" group-title="Muzicki",MTV Club
-http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/16759.ts
+http://185.53.88.26:80/live/Spasadima12/Dimaspasa12/16759.ts
 #EXTINF:-1 tvg-id="babytv" tvg-name="Baby TV" tvg-logo="http://repo.ottshow.net/pikoni/kids/babytv.gif" group-title="Djeciji",Baby TV
-http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/40217.ts
+http://185.53.88.26:80/live/Spasadima12/Dimaspasa12/40217.ts
 #EXTINF:-1 tvg-id="minimax" tvg-name="Minimax" tvg-logo="http://repo.ottshow.net/pikoni/kids/minimax.gif" group-title="Djeciji",Minimax
-http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/93.ts
+http://185.53.88.26:80/live/Spasadima12/Dimaspasa12/93.ts
 #EXTINF:-1 tvg-id="minitv" tvg-name="Mini Tv" tvg-logo="http://repo.ottshow.net/pikoni/kids/minitv.gif" group-title="Djeciji",Mini Tv
-http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/265.ts
+http://185.53.88.26:80/live/Spasadima12/Dimaspasa12/265.ts
 #EXTINF:-1 tvg-id="nick-jr" tvg-name="Nick Jr Hr." tvg-logo="https://repo.ottshow.net/pikoni/Ikone45/nickjrhr.gif" group-title="Djeciji",Nick Jr Hr.
-http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/25986.ts
+http://185.53.88.26:80/live/Spasadima12/Dimaspasa12/25986.ts
 #EXTINF:-1 tvg-id="nick-jr" tvg-name="Nick Jr " tvg-logo="http://repo.ottshow.net/pikoni/kids/nickjr.gif" group-title="Djeciji",Nick Jr 
-http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/68475.ts
+http://185.53.88.26:80/live/Spasadima12/Dimaspasa12/68475.ts
 #EXTINF:-1 tvg-id="" tvg-name="Nicktoons Hr." tvg-logo="http://repo.ottshow.net/pikoni/kids/juniorde.gif" group-title="Djeciji",Nicktoons Hr.
-http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/71269.ts
+http://185.53.88.26:80/live/Spasadima12/Dimaspasa12/71269.ts
 #EXTINF:-1 tvg-id="" tvg-name="Nicktoons" tvg-logo="http://repo.ottshow.net/pikoni/kids/juniorde.gif" group-title="Djeciji",Nicktoons
-http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/40979.ts
+http://185.53.88.26:80/live/Spasadima12/Dimaspasa12/40979.ts
 #EXTINF:-1 tvg-id="nickelodeon" tvg-name="Nickelodeon Hr." tvg-logo="https://repo.ottshow.net/pikoni/zadnji%20update/nicklodeonhr.gif" group-title="Djeciji",Nickelodeon Hr.
-http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/25987.ts
+http://185.53.88.26:80/live/Spasadima12/Dimaspasa12/25987.ts
 #EXTINF:-1 tvg-id="nickelodeon" tvg-name="Nickelodeon " tvg-logo="http://repo.ottshow.net/pikoni/kids/nickeleodon.gif" group-title="Djeciji",Nickelodeon 
-http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/68476.ts
+http://185.53.88.26:80/live/Spasadima12/Dimaspasa12/68476.ts
 #EXTINF:-1 tvg-id="cartoon-network" tvg-name="Cartoon Network Hr." tvg-logo="https://repo.ottshow.net/pikoni/kids/cartonnettwork.gif" group-title="Djeciji",Cartoon Network Hr.
-http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/71267.ts
+http://185.53.88.26:80/live/Spasadima12/Dimaspasa12/71267.ts
 #EXTINF:-1 tvg-id="cartoon-network" tvg-name="Cartoon Network" tvg-logo="https://repo.ottshow.net/pikoni/kids/cartonnettwork.gif" group-title="Djeciji",Cartoon Network
-http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/71113.ts
+http://185.53.88.26:80/live/Spasadima12/Dimaspasa12/71113.ts
 #EXTINF:-1 tvg-id="" tvg-name="Tnt Kids" tvg-logo="http://repo.ottshow.net/pikoni/kids/pikaboo.gif" group-title="Djeciji",Tnt Kids
-http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/66257.ts
+http://185.53.88.26:80/live/Spasadima12/Dimaspasa12/66257.ts
 #EXTINF:-1 tvg-id="pink-kids" tvg-name="Pink Kids" tvg-logo="http://repo.ottshow.net/pikoni/kids/pinkkids.gif" group-title="Djeciji",Pink Kids
-http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/266.ts
+http://185.53.88.26:80/live/Spasadima12/Dimaspasa12/266.ts
 #EXTINF:-1 tvg-id="pink-super-kids" tvg-name="Pink Super Kids" tvg-logo="https://repo.ottshow.net/pikoni/ikone45345/pinksuperkids.gif" group-title="Djeciji",Pink Super Kids
-http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/71270.ts
+http://185.53.88.26:80/live/Spasadima12/Dimaspasa12/71270.ts
 #EXTINF:-1 tvg-id="" tvg-name="Kazbuka" tvg-logo="https://repo.ottshow.net/pikoni/konacno/Kids/kazbuka.gif" group-title="Djeciji",Kazbuka
-http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/71116.ts
+http://185.53.88.26:80/live/Spasadima12/Dimaspasa12/71116.ts
 #EXTINF:-1 tvg-id="pikaboo" tvg-name="Pikaboo" tvg-logo="http://repo.ottshow.net/pikoni/kids/pikaboo.gif" group-title="Djeciji",Pikaboo
-http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/3854.ts
+http://185.53.88.26:80/live/Spasadima12/Dimaspasa12/3854.ts
 #EXTINF:-1 tvg-id="" tvg-name="Toon Kids" tvg-logo="http://repo.ottshow.net/pikoni/kids/orlandokids.gif" group-title="Djeciji",Toon Kids
-http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/8858.ts
+http://185.53.88.26:80/live/Spasadima12/Dimaspasa12/8858.ts
 #EXTINF:-1 tvg-id="hayatovci" tvg-name="Hayatovci" tvg-logo="http://repo.ottshow.net/pikoni/kids/hayatovci.gif" group-title="Djeciji",Hayatovci
-http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/25970.ts
+http://185.53.88.26:80/live/Spasadima12/Dimaspasa12/25970.ts
 #EXTINF:-1 tvg-id="" tvg-name="Cartoonito" tvg-logo="https://repo.ottshow.net/pikoni/kids/boomerangtv.gif" group-title="Djeciji",Cartoonito
-http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/71114.ts
+http://185.53.88.26:80/live/Spasadima12/Dimaspasa12/71114.ts
 #EXTINF:-1 tvg-id="rtl-kockica" tvg-name="Rtl Kockica" tvg-logo="http://repo.ottshow.net/pikoni/kids/rtl-kockica.gif" group-title="Djeciji",Rtl Kockica
-http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/25997.ts
+http://185.53.88.26:80/live/Spasadima12/Dimaspasa12/25997.ts
 #EXTINF:-1 tvg-id="disney-channel" tvg-name="Disney Chanel " tvg-logo="https://repo.ottshow.net/pikoni/kids/disneychannelde.gif" group-title="Djeciji",Disney Chanel 
-http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/71109.ts
+http://185.53.88.26:80/live/Spasadima12/Dimaspasa12/71109.ts
 #EXTINF:-1 tvg-id="disney-junior" tvg-name="Disney Junior " tvg-logo="https://repo.ottshow.net/pikoni/poljednji/spanian/disnyjunior.gif" group-title="Djeciji",Disney Junior 
-http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/71268.ts
+http://185.53.88.26:80/live/Spasadima12/Dimaspasa12/71268.ts
 #EXTINF:-1 tvg-id="" tvg-name="Dexy Tv" tvg-logo="https://repo.ottshow.net/pikoni/kids/dexytv.gif" group-title="Djeciji",Dexy Tv
-http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/67745.ts
+http://185.53.88.26:80/live/Spasadima12/Dimaspasa12/67745.ts
 #EXTINF:-1 tvg-id="" tvg-name="JimJam" tvg-logo="https://repo.ottshow.net/pikoni/zadnji%20update/jimjam.gif" group-title="Djeciji",JimJam
-http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/68479.ts
+http://185.53.88.26:80/live/Spasadima12/Dimaspasa12/68479.ts
 #EXTINF:-1 tvg-id="" tvg-name="Looney Tunes " tvg-logo="https://i.imgur.com/gVMdQt2.gif" group-title="Djeciji",Looney Tunes 
-http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/45122.ts
+http://185.53.88.26:80/live/Spasadima12/Dimaspasa12/45122.ts
 #EXTINF:-1 tvg-id="" tvg-name="Tom and Jerry" tvg-logo="https://repo.ottshow.net/pikoni/kids/tomandjerry.gif" group-title="Djeciji",Tom and Jerry
-http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/67747.ts
+http://185.53.88.26:80/live/Spasadima12/Dimaspasa12/67747.ts
 #EXTINF:-1 tvg-id="" tvg-name="Psici u Ophodnji" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/kids/psiciuophodnji.gif" group-title="Djeciji",Psici u Ophodnji
-http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/69630.ts
+http://185.53.88.26:80/live/Spasadima12/Dimaspasa12/69630.ts
 #EXTINF:-1 tvg-id="" tvg-name="CoComelon" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/kids/cocomeleon.gif" group-title="Djeciji",CoComelon
-http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/69637.ts
+http://185.53.88.26:80/live/Spasadima12/Dimaspasa12/69637.ts
 #EXTINF:-1 tvg-id="" tvg-name="Masa i Medo" tvg-logo="https://repo.ottshow.net/pikoni/kids/masaimedo.gif" group-title="Djeciji",Masa i Medo
-http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/67743.ts
+http://185.53.88.26:80/live/Spasadima12/Dimaspasa12/67743.ts
 #EXTINF:-1 tvg-id="" tvg-name="Pepa Prašcic" tvg-logo="https://repo.ottshow.net/pikoni/kids/pepaprascic.gif" group-title="Djeciji",Pepa Prašcic
-http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/67746.ts
+http://185.53.88.26:80/live/Spasadima12/Dimaspasa12/67746.ts
 #EXTINF:-1 tvg-id="" tvg-name="Tri Mace" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/kids/trimace.gif" group-title="Djeciji",Tri Mace
-http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/69635.ts
+http://185.53.88.26:80/live/Spasadima12/Dimaspasa12/69635.ts
 #EXTINF:-1 tvg-id="" tvg-name="Nova  Kids" tvg-logo="https://repo.ottshow.net/pikoni/kids/novakids.gif" group-title="Djeciji",Nova  Kids
-http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/67744.ts
+http://185.53.88.26:80/live/Spasadima12/Dimaspasa12/67744.ts
 #EXTINF:-1 tvg-id="" tvg-name="IDJ Kids" tvg-logo="https://repo.ottshow.net/pikoni/ukon34/kids/idjkids.gif" group-title="Djeciji",IDJ Kids
-http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/68943.ts
+http://185.53.88.26:80/live/Spasadima12/Dimaspasa12/68943.ts
 #EXTINF:-1 tvg-id="" tvg-name="A Je To" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/kids/a-je-to.gif" group-title="Djeciji",A Je To
-http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/69632.ts
+http://185.53.88.26:80/live/Spasadima12/Dimaspasa12/69632.ts
 #EXTINF:-1 tvg-id="" tvg-name="Strumpfovi" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/kids/strumfovi.gif" group-title="Djeciji",Strumpfovi
-http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/69633.ts
+http://185.53.88.26:80/live/Spasadima12/Dimaspasa12/69633.ts
 #EXTINF:-1 tvg-id="" tvg-name="Pingvini" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/kids/pingvini.gif" group-title="Djeciji",Pingvini
-http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/69634.ts
+http://185.53.88.26:80/live/Spasadima12/Dimaspasa12/69634.ts
 #EXTINF:-1 tvg-id="izvornatv" tvg-name="Izvorna TV  " tvg-logo="http://smartntv.pro/logokanali/muzik/izvorna.png" group-title="Muzicki",Izvorna TV  
 http://smartntv.pro:25461/888mirobec/ocLxZY2gmO/6796
 #EXTINF:-1 tvg-id="" tvg-name="Duga+" tvg-logo="http://smartntv.pro/logokanali/muzik/duga.png" group-title="Muzicki",Duga+
@@ -694,7 +694,7 @@ http://smartntv.pro:25461/888mirobec/ocLxZY2gmO/6441
 #EXTINF:-1 tvg-id="pink-horror" tvg-name="Pink Horror" tvg-logo="http://smartntv.pro/logokanali/pink/pinkhorror.png" group-title="Pink",Pink Horror
 http://smartntv.pro:25461/888mirobec/ocLxZY2gmO/6442
 #EXTINF:-1 tvg-id="pink-horror" tvg-name="Pink Horror" tvg-logo="http://smartntv.pro/logokanali/pink/pinkhorror.png" group-title="Pink",Pink Horror - Rezerva
-http://185.53.88.26:80/live/Sasa.maljkovic9/Reactor10050/108.ts
+http://185.53.88.26:80/live/Spasadima12/Dimaspasa12/108.ts
 #EXTINF:-1 tvg-id="pink-world-cinema" tvg-name="Pink World Cinema" tvg-logo="http://smartntv.pro/logokanali/pink/pinkworldcinema.png" group-title="Pink",Pink World Cinema
 http://smartntv.pro:25461/888mirobec/ocLxZY2gmO/6443
 #EXTINF:-1 tvg-id="pink-movies-3" tvg-name="PINK Sci-Fi & Fantasy" tvg-logo="http://smartntv.pro/logokanali/pink/pinkscifi.png" group-title="Pink",PINK Sci-Fi & Fantasy

@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="tvcg1" group-title="CRNOGORSKI",rtcg 1
+#EXTINF:-1 tvg-id="tvcg1" group-title="CRNOGORSKI",RTCG 1
 http://185.53.88.26:80/live/Spasadima12/Dimaspasa12/1080.ts
 #EXTINF:-1 tvg-id="tvcg2" group-title="CRNOGORSKI",RTCG 2
 http://185.53.88.26:80/live/Spasadima12/Dimaspasa12/2543.ts

@@ -1,7 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="tvcg1" group-title="CRNOGORSKI",RTCG 1
 http://izipizi1.info:80/live/Goran294/krV1Gh/1080.ts
-http://petica.info:80/live/Goran294/krV1Gh/39647.ts
 #EXTINF:-1 tvg-id="tvcg2" group-title="CRNOGORSKI",RTCG 2
 http://izipizi1.info:80/live/Goran294/krV1Gh/2543.ts
 #EXTINF:-1 tvg-id="tvcg1" group-title="CRNOGORSKI",RTCG 1 *hevc*
